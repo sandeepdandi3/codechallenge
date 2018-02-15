@@ -1,2 +1,2 @@
-# codechallenge
-movies application
+this project creates a list of movies and its data....which has different names of movies...on clicking the name we can route to the movie details....by using add on we can add movie and delete by using delete function...
+this code uses mongo data base in which we can add on files named movies ....and we can retrieve using id
